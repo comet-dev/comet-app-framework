@@ -1,2 +1,2 @@
-# comet-app-framework
-Prebuilt files for comet apps
+# CAF (Comet Application Framework)
+
